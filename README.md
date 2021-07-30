@@ -6,30 +6,11 @@
                                                                                                                                                  
 <p align="center"> 
 
-## 💻 Monitec
+## 💻 Econect-Monitore
                  
-O monitec é uma plataforma de monitoramento de funções e equipamentos de tecnologia que busca ampliar a visão de gestores de TI sobre o sistema e suas funcionalidades, oferecendo métricas para a tomada de decisão.
-                 
-Com um design baseado nas melhores práticas de UX fornece dados em tempo real para a análise da performance, ações preventivas, conexões e comunicações, entre outros. O monitec pode monitorar os seguintes itens.
-                 
-                 
-<strong>Carga:</strong> Acompanhamento de fluxo de carga do PDV.
+Produto descontinuado para monitoramento, link de loja, pdv movimento com erro, hardware erro carga.
 
-<strong>Hardware:</strong>  Gerenciamento funcional de Hardware.
-
-<strong>Integrações:</strong> Controle e acompanhamento das integrações. 
-
-<strong>Movimento:</strong> Follow Up e Gerenciamento de vendas.
-
-<strong>NFCE:</strong> Controle e monitoramento de cupons fiscais.
                  
-<strong>SAT:</strong> Controle e monitoramento de de cupons fiscais.
-                 
-<strong>Serviços:</strong> Gestão de dados online. 
-                 
-<strong>Versões:</strong> Releases, concentrador, matriz, pdvs  módulos. 
-                 
-
 ## Tópicos
 
 - [Tecnologias](#-Tecnologias)
