@@ -40,8 +40,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
   <li><a href="https://www.java.com">
     <img src="https://img.shields.io/badge/Java%201.8-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java">
   </a></li> 
-  <li><a href="https://www.npmjs.com/">
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
+  <li><a href="https://www.w3schools.com/css/">
+    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css">
   </a></li>                                                                                                                          
  </ul>                                                                                                                                           
 
