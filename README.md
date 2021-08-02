@@ -15,7 +15,7 @@ Produto descontinuado para monitoramento, link de loja, pdv movimento com erro, 
 ## Tópicos
 
 - [Tecnologias](#-Tecnologias)
-- [Como executar o monitec](#-Como-executar-o-monitec)
+- [Como executar o monitore](#-Como-executar-o-monitore)
 - [Features](#-Features)
 - [Contribuidores](#-Contribuidores)
 - [Autor](#-Autor)
@@ -28,14 +28,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 <ul> 
-  <li><a href="https://www.typescriptlang.org/">
-    <img src="https://img.shields.io/badge/TypeScript_3.5.3-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
-  </a></li>
   <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
   </a> </li>
-  <li><a href="https://spring.io/projects/spring-boot">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white" alt="spring-boot">
+  <li><a href="https://www.w3schools.com/html/">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white" alt="html">
   </a></li>                                                                                                                   
   <li><a href="https://www.java.com">
     <img src="https://img.shields.io/badge/Java%201.8-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java">
@@ -46,7 +43,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
  </ul>                                                                                                                                           
 
 
-## 🚀 Como executar o monitec.
+## 🚀 Como executar o monitore.
                                                                                                              
 ### Pré-requisitos
 
