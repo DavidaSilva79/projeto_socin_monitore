@@ -8,9 +8,10 @@
 
 ## 💻 Econect-Monitore
                  
-Produto descontinuado para monitoramento, link de loja, pdv movimento com erro, hardware erro carga.
-
+O monitore é uma plataforma que foi criada para o monitoramento de funções equipamentos do econect como link de loja, movimento de pdv, e hardware, porem ela foi descontinuada e substituída pelo monitec que tem as mesmas funções porem de forma aprimorada com uma serie de outros monitoramentos, no entanto o monitore ainda é uma dependência necessária para subir o econect.   
                  
+Produto descontinuado para monitoramento, link de loja, pdv movimento com erro, hardware erro carga.
+                
 ## Tópicos
 
 - [Tecnologias](#-Tecnologias)
