@@ -45,66 +45,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🚀 Como executar o monitore.
                                                                                                              
-### Pré-requisitos
-
-Antes de começar, você vai precisar ter instalado em sua máquina o e-conect o que inclui(Java JDK 1.8, MySQL 5.7, FTP e SSH, Mavem), além disto é bom ter um editor para trabalhar com o código como Eclipse e VScode ou Sublime.
-
-
-### 🎲 Executando o monitec
-
-                                                                                                                 
-1. Instale o Node.js
-Node.js é um ambiente de servidor de código aberto que usa JavaScript no servidor.
- 
-  ```curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -```
-                                                                                                                 
-  ```sudo apt-get install -y nodejs```   
-                                                                                                              
-2. Atualizar NPM
-Normalmente, o NPM será instalado com o próprio Node.js. No entanto, podemos atualizá-lo para a versão mais recente usando o comando abaixo.
-
-```sudo npm install npm@latest -g```                                                      
-                                                                                                                 
-3. Instale o Angular CLI    
-                                                                                                                 
-```sudo npm install -g @angular/cli```
-                                                                                                             
-4. Subindo o serviço web manager
-
-No endereço `https://github.com/socin-econect/monitec/releases/` escolher uma versão do arquivo monitec_versao_.zip baixar e descompactar o mesmo ,abrir o arquivo `conf/SQLAPIDataSource.properties` configurar a conexão com sua base de dados. Em seguida executar o arquivo web-manager.jar no terminal com comando o `java -jar web-manager.jar`.
-                                                                                                             
-5. Development server
-                                                                                                             
-Dentro da raiz do projeto monitec no terminal rode o comando `ng serve` para subir o servidor de desenvolvimento. Navegue ate o endereço `http://localhost:4200/`.Caso algum arquivo do condigo fonte for alterado a aplicação ira recarregar automaticamente.
-
-Caso na hora de subir no terminal der algumas exceptions executar os comandos `npm install --save-dev @angular-devkit/build-angular`
-`npm install`
-`ng serve -o`
-                                                                                                             
-Na tela de acesso do monitec ir ate a engrenagem de configuração no canto superior direito e trocar a url para `http://localhost:9999/`.
-
-### 🎁 Geração de artefatos do monitec                                                                                                            
-
-6. Build
-
-Para rodar a build e gerar os artefatos do projeto no terminal use o comando `ng build`. Os artefatos gerados são encontrados no diretório `dist/` do projeto monitec. Para uma build de produção use a flag `--prod`em seguida do comando `ng build`.
-
-Os artefatos gerados devem ser copiados para o diretório webapp do projeto do serviço baixado na sessão 4 deste tutorial.
-                                                                                                            
-<h3>Testes unitários</h3>
-
-No terminal execute o comando `ng test` para executar testes unitários via [Karma](https://karma-runner.github.io).
-
-<h3>Testes end-to-end</h3>
-                                                                                                             
-No terminal execute o comando `ng e2e` para executar testes end-to-end via [Protractor](http://www.protractortest.org/).
-                                                                                                             
-<h3>Code scaffolding</h3>
-                                                                                                             
-Execute no terminal o comando `ng generate component component-name` para gerar um novo componente. Você também pode usar o comando `ng generate directive|pipe|service|class|guard|interface|enum|module`.                                                                                                             
-<h3>Para mais ajuda</h3>
-                                                                                                             
-Para obter mais ajuda sobre o uso do Angular CLI no terminal digite `ng help` ou acesse [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).                                                                                                            
+O econect-monitore é executado junto com o econect pois o mesmo é uma dependência dele, o projeto é importado no processo de montagem e execução do ambiente e workspace do econect.
 
 ## 💫 Features
 
