@@ -15,7 +15,7 @@ Produto descontinuado para monitoramento, link de loja, pdv movimento com erro, 
 ## Tópicos
 
 - [Tecnologias](#-Tecnologias)
-- [Como executar o monitore](#-Como-executar-o-monitore)
+- [Como executar o econect-monitore](#-Como-executar-o-econect-monitore)
 - [Features](#-Features)
 - [Contribuidores](#-Contribuidores)
 - [Autor](#-Autor)
@@ -43,13 +43,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
  </ul>                                                                                                                                           
 
 
-## 🚀 Como executar o monitore.
+## 🚀 Como executar o econect-monitore.
                                                                                                              
 O econect-monitore é executado junto com o econect pois o mesmo é uma dependência dele, o projeto é importado no processo de montagem e execução do ambiente e workspace do econect.
 
 ## 💫 Features
 
-O conteúdo referente as features do monitec se encontra no local  do link abaixo.
+O conteúdo referente as features do econect-monitore se encontra no local  do link abaixo.
 
 https://socincompany.atlassian.net/wiki/spaces/E
 
